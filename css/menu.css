@@ -7,6 +7,7 @@ body {
     color:darkblue;
     font-size: 1.5em;
     font-family: sans-serif;
+    float: right;
   }
   
   .menus {
