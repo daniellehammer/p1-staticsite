@@ -21,11 +21,11 @@ body {
     list-style-type: none;
   }
   
-  .menu-heading, .menu-item > a {
+  .menu-hdr, .menu-item > a {
     padding: 5px 10px;
   }
   
-  .menu-heading {
+  .menu-hdr {
     border-right: 1px solid lightgray;
   }
   
@@ -48,7 +48,7 @@ body {
     display: block;
   }
   
-  .menu-item:hover, .menu:hover > .menu-heading {
+  .menu-item:hover, .menu:hover > .menu-hdr {
     background-color:cornflowerblue;
   }
   
