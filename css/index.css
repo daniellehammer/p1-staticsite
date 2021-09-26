@@ -1,0 +1,10 @@
+.hdr {
+    font-family: Verdana;
+    color:cornflowerblue;
+    background-color: antiquewhite;
+}   
+
+.dockbanner {
+    display:flexbox;
+    justify-content: center;
+}
