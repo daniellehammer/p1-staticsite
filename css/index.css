@@ -7,4 +7,5 @@
 .dockbanner {
     display:flexbox;
     justify-content: center;
+    max-height: 1000px;
 }
