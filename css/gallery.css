@@ -1,9 +1,18 @@
+img {
+    max-height: 200px;
+    max-width: auto;
+}
+
 .gallery{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    
 }
 
-img {
-    width: 200px;
+html, body, div, img {
+    margin:0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
 }
