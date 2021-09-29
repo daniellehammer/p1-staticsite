@@ -1,4 +1,9 @@
+.gallery{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
 img {
-    max-width: 90vh;
-    max-height: 90vh;
+    width: 200px;
 }
